@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "username": "Daniel",
+      "age": "19",
+      "password": "123321",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "username": "Admin",
+      "age": "12",
+      "password": "123",
+      "isAdmin": true,
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Josteve",
+      "price": "Priceless",
+      "desc": "Will save from zombie-apocalypse",
+      "image": "https://i.pinimg.com/originals/3e/da/80/3eda807e9daa7f16835d523918807121.gif",
+      "category": "Friend"
+    },
+    {
+      "id": 2,
+      "title": "Steve Dance Galaxy S20 Plus+",
+      "price": "120000$",
+      "desc": "description",
+      "image": "https://i.imgflip.com/6lll12.gif",
+      "category": "Phone"
+    },
+    {
+      "id": 4,
+      "title": "Creeper",
+      "price": "45000",
+      "desc": "Hello 5",
+      "image": "https://68.media.tumblr.com/tumblr_mad3m079ii1rq1xcqo1_400.gif",
+      "category": "Cosmos"
+    },
+    {
+      "id": 5,
+      "title": "Emerald",
+      "price": "2222",
+      "desc": "IT'S EMERALD!!!",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d44e8e4c-db34-4361-8508-e7288d4cc10f/d5a0tlk-09fd7f7b-7d6d-4634-8e65-ddd74583f578.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q0NGU4ZTRjLWRiMzQtNDM2MS04NTA4LWU3Mjg4ZDRjYzEwZlwvZDVhMHRsay0wOWZkN2Y3Yi03ZDZkLTQ2MzQtOGU2NS1kZGQ3NDU4M2Y1NzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.c6SQy85sngwJU-uOYQWDoQFTFD6LvMlwSb_xZeJhR90",
+      "category": "resourses"
+    }
+  ]
+}
